@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+sqlalchemy
+aiosqlite
+python-dotenv
+aiohttp
